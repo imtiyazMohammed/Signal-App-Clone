@@ -12,7 +12,7 @@ import AddChatScreen from "./screens/AddChatScreen";
 import ChatScreen from "./screens/ChatScreen";
 
 LogBox.ignoreLogs(["Setting a timer for a long period of time"]);
-
+// creating a stack
 const Stack = createStackNavigator();
 
 const globalScreenOptions = {
