@@ -20,7 +20,7 @@ const globalScreenOptions = {
   headerTitleStyle: { color: "white" },
   headerTintColor: "white",
 };
-
+//exporting default function//
 export default function App() {
   return (
     <NavigationContainer>
